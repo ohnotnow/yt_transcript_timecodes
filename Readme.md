@@ -12,8 +12,8 @@ This project provides a Python script that downloads a YouTube video, transcribe
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-github-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/ohnotnow/yt_transcript_timecodes
+   cd yt_transcript_timecodes
    ```
 
 2. **Install the required dependencies**:
